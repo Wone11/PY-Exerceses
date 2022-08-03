@@ -5,3 +5,4 @@ def replace_vowels(txt, ch):
         txt = txt.replace(element,ch)
     return txt
 	
+print(replace_vowels('Solomon','*'))
